@@ -18,9 +18,7 @@ React updates only the parts of the webpage that have changed, making applicatio
 
 # JSX 
 React uses JSX (JavaScript XML), which lets you write HTML-like code inside JavaScript.
-function App() {
-  return <h1>Hello React!</h1>;
-}
+
 
 # SPA (Single Page Application) 
 A Single Page Application (SPA) loads only one HTML page.
@@ -41,16 +39,4 @@ House = Website
 Rooms = Components
 Each room has its own purpose, and together they make the complete house.
 
-# React Project Structure
-react-app/
-│
-├── node_modules/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── assets/
-├── package.json
-├── vite.config.js
-└── index.html
 

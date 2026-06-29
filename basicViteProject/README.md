@@ -37,6 +37,6 @@ A component is a small, reusable piece of the user interface.
 Think of a website as a house:
 House = Website
 Rooms = Components
-Each room has its own purpose, and together they make the complete house.
+Each room has its own purpose, and together they make the complete house. 
 
 
